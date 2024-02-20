@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gangtoon.chakraapp",
+      "sha256_cert_fingerprints": [
+        "46:F0:55:C7:79:D2:90:15:74:7C:31:AD:F9:F5:AA:80:21:B5:FB:27:47:10:C3:EB:C2:A3:2E:6D:C9:5F:FF:EC"
+      ]
+    }
+  }
+]

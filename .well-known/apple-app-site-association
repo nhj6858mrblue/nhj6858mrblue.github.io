@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "ZV5C4825TW.com.gangtoon.chakraapp",
+        "paths": ["*", "/"]
+      }
+    ]
+  }
+}

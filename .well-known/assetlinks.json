@@ -10,5 +10,18 @@
         "C6:94:27:AB:DF:09:E9:36:C1:BB:55:FC:B3:7E:D7:87:3B:33:02:CB:EC:3E:9B:DC:FA:C8:02:B6:5C:A7:FD:A2"
       ]
     }
+  },
+  
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gangtoon.chakraapp.onestore",
+      "sha256_cert_fingerprints": [
+        "C6:94:27:AB:DF:09:E9:36:C1:BB:55:FC:B3:7E:D7:87:3B:33:02:CB:EC:3E:9B:DC:FA:C8:02:B6:5C:A7:FD:A2"
+      ]
+    }
   }
 ]

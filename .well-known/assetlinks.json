@@ -25,5 +25,38 @@
         "A1:3F:40:6D:4F:1C:4E:95:A5:5A:BA:92:A7:12:A5:6C:ED:1A:B5:6D:80:7E:42:52:39:36:6A:F7:CB:18:68:06"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mrblue.mrblue",
+      "sha256_cert_fingerprints": [
+        "C6:94:27:AB:DF:09:E9:36:C1:BB:55:FC:B3:7E:D7:87:3B:33:02:CB:EC:3E:9B:DC:FA:C8:02:B6:5C:A7:FD:A2",
+        "96:EF:69:B3:F1:14:9C:24:9A:30:1A:45:C8:22:F2:84:8A:12:29:1A:2D:8E:B8:43:F7:A8:21:73:C0:D8:DC:86"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mrblue.mrblue_completion",
+      "sha256_cert_fingerprints": [
+        "C6:94:27:AB:DF:09:E9:36:C1:BB:55:FC:B3:7E:D7:87:3B:33:02:CB:EC:3E:9B:DC:FA:C8:02:B6:5C:A7:FD:A2",
+        "96:EF:69:B3:F1:14:9C:24:9A:30:1A:45:C8:22:F2:84:8A:12:29:1A:2D:8E:B8:43:F7:A8:21:73:C0:D8:DC:86"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mrblue.onestore_completion",
+      "sha256_cert_fingerprints": [
+        "C6:94:27:AB:DF:09:E9:36:C1:BB:55:FC:B3:7E:D7:87:3B:33:02:CB:EC:3E:9B:DC:FA:C8:02:B6:5C:A7:FD:A2",
+        "96:EF:69:B3:F1:14:9C:24:9A:30:1A:45:C8:22:F2:84:8A:12:29:1A:2D:8E:B8:43:F7:A8:21:73:C0:D8:DC:86"
+      ]
+    }
   }
 ]

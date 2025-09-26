@@ -3,10 +3,6 @@
       "apps": [],
       "details": [
       {
-        "appID": "ZV5C4825TW.com.gangtoon.chakraapp",
-        "paths": ["*", "/"]
-      },
-      {
         "appID": "ZV5C4825TW.mrBlue",
         "paths": ["*", "/"]
       }
